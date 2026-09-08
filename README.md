@@ -8,7 +8,7 @@ Independent logo design and AI emotional video production usingChatGPT, Gemini, 
 
 ### 2. Weetabix Protein — Morning Monsters
 Original creative IP system, Hero Storyboard, campaign slogan and cross-touchpoint creative strategy.
-[View Case Study](./weetabix campaign（项目优秀）.pdf)
+[View Case Study](./Weetabix-Campaign.pdf)
 
 ### 3. Kuaishou E-commerce Growth
 User research, livestream operations, promotional experiments and data-driven conversion optimization.
